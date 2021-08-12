@@ -1,7 +1,1 @@
-new.action = get {
-new.var = money{
-New.identifier: currency;desc = variable used to buy objects;identify: as $;
-} -money __by__ $price give *item*...if (money < $price){
-msg.#810202(cannot buy...)
-}}
-
+new Player (component) = new componentdr(30,30,red,mainPlayer);
